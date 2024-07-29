@@ -49,13 +49,13 @@ Since model is trained for specific crops only so it can diagnose those specific
 The List of Crops For which this model will be helpful is:
 
 
-<img src="picture1">
+<img src="picture1.png">
 
 The crop which can be used for diagnosis can only diagnose specific disease for which the model is trained. 
 The List of crop diseases on Which Model is trained on is:
 
 
-<img src="picture2">
+<img src="picture2.png">
 
 
 Above image indicates that we have 15 crops on which our model works for 38 specific cases which are basic classes on which our model will perform classification process.
