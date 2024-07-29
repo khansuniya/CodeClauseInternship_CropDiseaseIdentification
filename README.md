@@ -49,13 +49,13 @@ Since model is trained for specific crops only so it can diagnose those specific
 The List of Crops For which this model will be helpful is:
 
 
-<img src="static/picture1">
+<img src="picture1">
 
 The crop which can be used for diagnosis can only diagnose specific disease for which the model is trained. 
 The List of crop diseases on Which Model is trained on is:
 
 
-<img src="static/picture2">
+<img src="picture2">
 
 
 Above image indicates that we have 15 crops on which our model works for 38 specific cases which are basic classes on which our model will perform classification process.
@@ -90,6 +90,7 @@ Above image indicates that we have 15 crops on which our model works for 38 spec
 This project can be used for simplifying the process of crop disease detection. This project follows one touch process for detection of disease in crop if present. By detecting disease one can take steps for treatment of the same. This project will be beneficial on the specific crop category on which it is trained. This project can save a lot of time which is wasted on detection of diseases found in crop that too with good accuracy.
 
 ## DataSet Link
+https://datasetsearch.research.google.com/search?query=plant-diseasesdataset&docid=L2cvMTF0X3B4NTJocQ%3D%3D
 
 
 
